@@ -1,7 +1,7 @@
 ## Hi, I'm Elyabe 👋
 
 Full-Stack developer in training, studying Internet Systems Technology at UTFPR — Guarapuava, Brazil.
-Technical degree in Systems Development from CEFCM. Currently taking the Front-End course at 3C Plus.
+Technical degree in Systems Development from CEFCM.
 
 ---
 
