@@ -23,7 +23,7 @@ Technical degree in Systems Development from CEFCM.
 
 - Learning process automation with **n8n**
 - Building projects with **Vue 3** and **REST API** integrations
-- Looking for my first opportunity as a full-stack developer or automation analyst
+- Looking for my first opportunity as a full-stack developer or process automation
 
 ---
 
